@@ -21,13 +21,9 @@ public class FirstClass {
 	 {
 		System.out.println("Hello world3"); 
 	 }
+	//fourth commit
 	@Test
 	 public void helloworld4()
-	 {
-		System.out.println("Hello world"); 
-	 }
-	@Test
-	 public void helloworld5()
 	 {
 		System.out.println("Hello world"); 
 	 }
