@@ -27,6 +27,10 @@ public class FirstClass {
 	 {
 		System.out.println("Hello world"); 
 	 }
-	
+	@Test
+	 public void helloworld5()
+	 {
+		System.out.println("Jai Hind"); 
+	 }
 	
 }
