@@ -44,21 +44,7 @@ public class FirstClass {
 			System.out.println("Hello world2"); 
 		 }
 		//third commit
-		@Test
-		 public void helloworld30()
-		 {
-			System.out.println("Hello world3"); 
-		 }
-		//fourth commit
-		@Test
-		 public void helloworld40()
-		 {
-			System.out.println("Hello world"); 
-		 }
-		@Test
-		 public void helloworld50()
-		 {
-			System.out.println("Jai Hind"); 
-		 }
+		
+		
 		
 }
