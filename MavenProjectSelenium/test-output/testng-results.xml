@@ -1,75 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="15" passed="15">
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="200" started-at="2017-08-26T07:07:19Z" finished-at="2017-08-26T07:07:19Z">
+  <suite name="Default suite" duration-ms="197" started-at="2017-08-26T12:18:22Z" finished-at="2017-08-26T12:18:22Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="200" started-at="2017-08-26T07:07:19Z" finished-at="2017-08-26T07:07:19Z">
+    <test name="Default test" duration-ms="197" started-at="2017-08-26T12:18:22Z" finished-at="2017-08-26T12:18:22Z">
       <class name="FirstMaven.secondClass">
-        <test-method status="PASS" signature="helloworld11()[pri:0, instance:FirstMaven.secondClass@93dd95]" name="helloworld11" duration-ms="2" started-at="2017-08-26T12:37:19Z" finished-at="2017-08-26T12:37:19Z">
+        <test-method status="PASS" signature="helloworld11()[pri:0, instance:FirstMaven.secondClass@93dd95]" name="helloworld11" duration-ms="6" started-at="2017-08-26T17:48:22Z" finished-at="2017-08-26T17:48:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- helloworld11 -->
-        <test-method status="PASS" signature="helloworld12()[pri:0, instance:FirstMaven.secondClass@93dd95]" name="helloworld12" duration-ms="1" started-at="2017-08-26T12:37:19Z" finished-at="2017-08-26T12:37:19Z">
+        <test-method status="PASS" signature="helloworld12()[pri:0, instance:FirstMaven.secondClass@93dd95]" name="helloworld12" duration-ms="2" started-at="2017-08-26T17:48:22Z" finished-at="2017-08-26T17:48:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- helloworld12 -->
-        <test-method status="PASS" signature="helloworld13()[pri:0, instance:FirstMaven.secondClass@93dd95]" name="helloworld13" duration-ms="1" started-at="2017-08-26T12:37:19Z" finished-at="2017-08-26T12:37:19Z">
+        <test-method status="PASS" signature="helloworld13()[pri:0, instance:FirstMaven.secondClass@93dd95]" name="helloworld13" duration-ms="2" started-at="2017-08-26T17:48:22Z" finished-at="2017-08-26T17:48:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- helloworld13 -->
-        <test-method status="PASS" signature="helloworld14()[pri:0, instance:FirstMaven.secondClass@93dd95]" name="helloworld14" duration-ms="7" started-at="2017-08-26T12:37:19Z" finished-at="2017-08-26T12:37:19Z">
+        <test-method status="PASS" signature="helloworld14()[pri:0, instance:FirstMaven.secondClass@93dd95]" name="helloworld14" duration-ms="5" started-at="2017-08-26T17:48:22Z" finished-at="2017-08-26T17:48:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- helloworld14 -->
-        <test-method status="PASS" signature="helloworld15()[pri:0, instance:FirstMaven.secondClass@93dd95]" name="helloworld15" duration-ms="2" started-at="2017-08-26T12:37:19Z" finished-at="2017-08-26T12:37:19Z">
+        <test-method status="PASS" signature="helloworld15()[pri:0, instance:FirstMaven.secondClass@93dd95]" name="helloworld15" duration-ms="2" started-at="2017-08-26T17:48:22Z" finished-at="2017-08-26T17:48:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- helloworld15 -->
       </class> <!-- FirstMaven.secondClass -->
       <class name="FirstMaven.FirstClass">
-        <test-method status="PASS" signature="helloworld1()[pri:0, instance:FirstMaven.FirstClass@41eaa2]" name="helloworld1" duration-ms="23" started-at="2017-08-26T12:37:19Z" finished-at="2017-08-26T12:37:19Z">
+        <test-method status="PASS" signature="helloworld1()[pri:0, instance:FirstMaven.FirstClass@41eaa2]" name="helloworld1" duration-ms="39" started-at="2017-08-26T17:48:22Z" finished-at="2017-08-26T17:48:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- helloworld1 -->
-        <test-method status="PASS" signature="helloworld10()[pri:0, instance:FirstMaven.FirstClass@41eaa2]" name="helloworld10" duration-ms="2" started-at="2017-08-26T12:37:19Z" finished-at="2017-08-26T12:37:19Z">
+        <test-method status="PASS" signature="helloworld10()[pri:0, instance:FirstMaven.FirstClass@41eaa2]" name="helloworld10" duration-ms="2" started-at="2017-08-26T17:48:22Z" finished-at="2017-08-26T17:48:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- helloworld10 -->
-        <test-method status="PASS" signature="helloworld2()[pri:0, instance:FirstMaven.FirstClass@41eaa2]" name="helloworld2" duration-ms="15" started-at="2017-08-26T12:37:19Z" finished-at="2017-08-26T12:37:19Z">
+        <test-method status="PASS" signature="helloworld2()[pri:0, instance:FirstMaven.FirstClass@41eaa2]" name="helloworld2" duration-ms="2" started-at="2017-08-26T17:48:22Z" finished-at="2017-08-26T17:48:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- helloworld2 -->
-        <test-method status="PASS" signature="helloworld20()[pri:0, instance:FirstMaven.FirstClass@41eaa2]" name="helloworld20" duration-ms="1" started-at="2017-08-26T12:37:19Z" finished-at="2017-08-26T12:37:19Z">
+        <test-method status="PASS" signature="helloworld20()[pri:0, instance:FirstMaven.FirstClass@41eaa2]" name="helloworld20" duration-ms="3" started-at="2017-08-26T17:48:22Z" finished-at="2017-08-26T17:48:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- helloworld20 -->
-        <test-method status="PASS" signature="helloworld3()[pri:0, instance:FirstMaven.FirstClass@41eaa2]" name="helloworld3" duration-ms="2" started-at="2017-08-26T12:37:19Z" finished-at="2017-08-26T12:37:19Z">
+        <test-method status="PASS" signature="helloworld3()[pri:0, instance:FirstMaven.FirstClass@41eaa2]" name="helloworld3" duration-ms="3" started-at="2017-08-26T17:48:22Z" finished-at="2017-08-26T17:48:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- helloworld3 -->
-        <test-method status="PASS" signature="helloworld30()[pri:0, instance:FirstMaven.FirstClass@41eaa2]" name="helloworld30" duration-ms="27" started-at="2017-08-26T12:37:19Z" finished-at="2017-08-26T12:37:19Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- helloworld30 -->
-        <test-method status="PASS" signature="helloworld4()[pri:0, instance:FirstMaven.FirstClass@41eaa2]" name="helloworld4" duration-ms="2" started-at="2017-08-26T12:37:19Z" finished-at="2017-08-26T12:37:19Z">
+        <test-method status="PASS" signature="helloworld4()[pri:0, instance:FirstMaven.FirstClass@41eaa2]" name="helloworld4" duration-ms="3" started-at="2017-08-26T17:48:22Z" finished-at="2017-08-26T17:48:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- helloworld4 -->
-        <test-method status="PASS" signature="helloworld40()[pri:0, instance:FirstMaven.FirstClass@41eaa2]" name="helloworld40" duration-ms="2" started-at="2017-08-26T12:37:19Z" finished-at="2017-08-26T12:37:19Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- helloworld40 -->
-        <test-method status="PASS" signature="helloworld5()[pri:0, instance:FirstMaven.FirstClass@41eaa2]" name="helloworld5" duration-ms="4" started-at="2017-08-26T12:37:19Z" finished-at="2017-08-26T12:37:19Z">
+        <test-method status="PASS" signature="helloworld5()[pri:0, instance:FirstMaven.FirstClass@41eaa2]" name="helloworld5" duration-ms="2" started-at="2017-08-26T17:48:22Z" finished-at="2017-08-26T17:48:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- helloworld5 -->
-        <test-method status="PASS" signature="helloworld50()[pri:0, instance:FirstMaven.FirstClass@41eaa2]" name="helloworld50" duration-ms="2" started-at="2017-08-26T12:37:19Z" finished-at="2017-08-26T12:37:19Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- helloworld50 -->
       </class> <!-- FirstMaven.FirstClass -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
