@@ -8,6 +8,12 @@ public class FirstClass {
  public void helloworld1()
  {
 	System.out.println("Hello world1"); 
+	
+ }
+	@Test
+ public void helloworld11()
+ {
+	System.out.println("Hello world1"); 
  }
 	//second commit
 	@Test
