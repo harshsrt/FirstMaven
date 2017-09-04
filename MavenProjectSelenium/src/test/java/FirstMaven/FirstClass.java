@@ -22,6 +22,12 @@ public class FirstClass {
 		
 	 }
 	@Test
+	 public void helloworld1997()
+	 {
+		System.out.println("Hello world1"); 
+		
+	 }
+	@Test
 	 public void helloworld19()
 	 {
 		System.out.println("Hello world1"); 
