@@ -79,5 +79,9 @@ public class FirstClass {
 		 {
 			System.out.println("Hello world2"); 
 		 }
-		
+		@Test
+		 public void helloworld122()
+		 {
+			System.out.println("Hello world2"); 
+		 }
 }
