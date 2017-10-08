@@ -84,4 +84,9 @@ public class FirstClass {
 		 {
 			System.out.println("Hello world2"); 
 		 }
+		@Test
+		 public void helloworld26()
+		 {
+			System.out.println("Hello world2"); 
+		 }
 }
