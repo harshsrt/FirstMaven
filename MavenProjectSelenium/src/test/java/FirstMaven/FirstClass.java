@@ -80,7 +80,7 @@ public class FirstClass {
 			System.out.println("Hello world2"); 
 		 }
 		@Test
-		 public void helloworld122()
+		 public void helloworld25()
 		 {
 			System.out.println("Hello world2"); 
 		 }
